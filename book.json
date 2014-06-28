@@ -1,0 +1,22 @@
+{
+    "plugins"       : ["richquotes", "disqus"]
+    ,"pluginsConfig":
+    {
+        "richquotes" :
+        {
+            "todos" : true
+        },
+        "disqus": {
+           "shortName": "user2014"
+        },
+         "fontSettings": {
+            "theme": "white",
+            "family": "sans",
+            "size": 3
+        },
+        "mixpanel": {
+            "token": "6ec15698858d047b355d85d338c9af8a"
+        }
+    },
+    "github": "ramnathv/user2014-idocs"
+}
