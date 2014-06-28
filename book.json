@@ -1,5 +1,5 @@
 {
-    "plugins"       : ["richquotes", "disqus"]
+    "plugins"       : ["richquotes", "disqus", "mixpanel"]
     ,"pluginsConfig":
     {
         "richquotes" :
