@@ -1,0 +1,57 @@
+@import url(http://fonts.googleapis.com/css?family=Crimson+Text);
+
+slide.quote strong {
+  color: red;
+  font-family: "Crimson Text";
+  font-size: 1.5em;
+}
+
+slide.quote q {
+  font-size: 48px;
+  line-height: 1.5em;
+}
+
+slide.bigger pre {
+  font-size: 24px;
+  line-height: 32px;
+}
+
+slide.smaller pre{
+  font-size: 18px;
+  line-height: 24px;
+}
+
+slide.dark q {
+  color: whitesmoke;
+}
+
+li.tab::before{
+  content: ""
+}
+
+slide.centrepre pre{
+  width: 70%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+slide.centrepre code {
+  font-size: 22px;
+}
+
+#demo1-create pre{
+  width: 90%;
+}
+
+#demo1-create code{
+  font-size: 18px;
+  line-height: 28px;
+}
+
+slides.layout-widescreen > slide.backdrop{
+  background: white;
+}
+
+#interactive-quiz pre{
+  line-height: 1.2em;
+}

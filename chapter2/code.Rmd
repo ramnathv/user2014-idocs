@@ -1,0 +1,3 @@
+## Code Evaluators
+
+In this section, we will discuss code evaluators, specifically focusing on [knitr](http://yihui.name/knitr), one of the most popular evaluators used by the R community.
